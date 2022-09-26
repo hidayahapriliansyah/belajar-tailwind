@@ -1,0 +1,16 @@
+vs code extention :
+- Tailwind intellisense
+- Live Preview
+- PostCSS Language Support
+
+Dokumentasi : https://tailwindcss.com/docs/installation/play-cdn
+
+Cara menghilangkan style yang tidak terpakai :
+  - Restart builder
+  - re save tailwindcss.config.js
+
+Cara minify file css :
+jalankan perintah npx tailwindcss -o ./public/css/name.css --minify
+
+Cara install tailwindss beserta semua package yang dibutuhkah :
+    npm -i D tailwindcss postcss autoprefixer

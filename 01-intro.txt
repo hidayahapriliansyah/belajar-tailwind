@@ -1,0 +1,5 @@
+Tailwind memakai gaya utility first css framework.
+
+Extention VS Code :
+    - Tailwind Intellisense
+
