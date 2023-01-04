@@ -12,5 +12,5 @@ Cara menghilangkan style yang tidak terpakai :
 Cara minify file css :
 jalankan perintah npx tailwindcss -o ./public/css/name.css --minify
 
-Cara install tailwindss beserta semua package yang dibutuhkah :
+Cara install tailwindss beserta semua package yang dibutuhkan, ini untuk node js v dibawah 16 :
     npm -i D tailwindcss postcss autoprefixer

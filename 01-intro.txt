@@ -2,4 +2,6 @@ Tailwind memakai gaya utility first css framework.
 
 Extention VS Code :
     - Tailwind Intellisense
+    - Live Preview
+    - PostCSS Language Support
 

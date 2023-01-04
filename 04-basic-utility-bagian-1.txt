@@ -1,0 +1,19 @@
+ Di bagian ini kita akan belajar :
+    - Spacing & Sizing (widht, height)
+    - bg-clip: text; wooowww
+    - Typography
+    - Color
+
+nambahin customization spacing kayak m-13 kan gak ada,
+di file tailwind.config.js nya tambahin spacing di object extend nya :
+   module.exports = {
+   content: ["./public/**/*.{html,js}"],
+   theme: {
+      extend: {
+         spacing: {
+         13: '3.25rem'
+         }
+      },
+   },
+   plugins: [],
+   }
