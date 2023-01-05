@@ -1,0 +1,9 @@
+belajar pseudo class
+after:utility..
+invalid:utility ..
+
+kalau dark mode ada 2 cara.
+1. Bisa ngambil dark dari system. tanpa inisialisasi di tailwind config.
+2. bikin insialisasi di tailwind config tambahin : darkMode: ['class'],
+
+HARUS BELAJAR SELECTOR CSS DI
