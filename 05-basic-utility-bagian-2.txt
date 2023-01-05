@@ -7,3 +7,15 @@ Background attachment :
   bg-scroll
   bg-fixed
   bg-local
+
+filter:
+  blur
+  backdrop-blur
+  blend background
+  mix blend
+
+Border :
+  border widht
+  border color
+  boder style
+  ring dll.
