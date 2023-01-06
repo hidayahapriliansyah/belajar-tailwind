@@ -3,3 +3,5 @@ kudu pinter pinter maen responsive na cuy ...
 flexbox grow
 shrink
 basis 
+
+flexbox wrap na cuy
