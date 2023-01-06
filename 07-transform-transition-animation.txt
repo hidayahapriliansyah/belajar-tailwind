@@ -1,0 +1,13 @@
+kita belajar 
+transform
+rotate
+skew
+
+transition
+duration
+
+animation
+custom animation
+
+di dokumentasina ge aya coyy
+kereenn
