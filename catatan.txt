@@ -1,3 +1,4 @@
 sebelum mahir tailwind harus mahir css dulu ya ...
 
 responsive kudu jago heula
+matangkeun heula display grid coy
