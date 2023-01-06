@@ -1,0 +1,9 @@
+konsep mobile first.
+
+sm yang ada di tailwind itu bukan artinya buat mobile,
+tapi justru css yang kita buat tanpa responsive (default) itu lah yang
+harus menerapkan desain mobile, sm itu buat next break point
+kayak kalau hp dirotate. md, lg, xl seterusnya.
+
+pake min width karena kan mobile first. minimal segitu, keatasnya
+juga segitu.
