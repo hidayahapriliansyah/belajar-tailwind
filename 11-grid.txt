@@ -1,0 +1,9 @@
+kita coba niru ini : https://tympanus.net/Development/GridZoom/
+
+harus biasa sama gridnya dulu di ...
+
+template column/row
+
+paling seru mah kalau si itemnya udah dimainin posisinya
+jadi gak sesuai struktur html lagi karena pake grid-column/row-start: 
+nomor col/row nya ...
